@@ -1,4 +1,4 @@
-Author(s): Itay Kruk (Mandiant, CyberHat)
+Author: Itay Kruk (CyberHat)
            
 Description:
   Antianalysis find windows api calls which recognized with anti-debugging/analysis techniques.
